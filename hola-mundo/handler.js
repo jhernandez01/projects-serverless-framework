@@ -2,6 +2,8 @@
 //create file package.json
 //npm init -y
 
+//https://stackoverflow.com/questions/71901632/fatal-error-unsafe-repository-home-repon-is-owned-by-someone-else
+//Fatal error "unsafe repository ('/home/repon' is owned by someone else)"
 
 module.exports.hello = async (event) => {
   return {
